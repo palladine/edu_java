@@ -11,14 +11,7 @@ public class strReverse {
         }
         System.out.println(str.copyValueOf(ares));
         
-        
-        // Array reverse
-        int Arr[] = {1,2,3,4,5};
-        for(int x : Arr)
-        {   
-            System.out.print((Arr[Arr.length-x]) + " ");  
-        }
-        
+                
         // String reverse
         String str2 = "Superbien";
         for(int y=0; y < str2.length(); y++){
